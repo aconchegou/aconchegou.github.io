@@ -1,0 +1,15 @@
+Jul 05 2024 20:11:56
+{"Number":2,"Message":"filesize(): stat failed for \/home\/acondev\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/e3p05opwsr1t\/aconchegou-com-20240705-171120-9g68t2.wpress","File":"\/home\/acondev\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":231}
+
+Jul 05 2024 20:11:58
+{"Number":2,"Message":"fopen(\/home\/acondev\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/e3p05opwsr1t\/media.list): failed to open stream: No such file or directory","File":"\/home\/acondev\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1475}
+
+Jul 05 2024 20:12:38
+{"Number":8,"Message":"fwrite(): write of 2491 bytes failed with errno=122 Disk quota exceeded","File":"\/home\/acondev\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":80}
+
+Jul 05 2024 20:14:58
+{"Number":8,"Message":"fwrite(): write of 8192 bytes failed with errno=122 Disk quota exceeded","File":"\/home\/acondev\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":102}
+
+Jul 05 2024 20:16:23
+{"Number":8,"Message":"fwrite(): write of 8192 bytes failed with errno=122 Disk quota exceeded","File":"\/home\/acondev\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":102}
+
